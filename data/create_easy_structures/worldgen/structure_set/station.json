@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "create_easy_structures:station",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency": 0.2,
+    "spacing": 60,
+    "separation": 15,
+    "salt": 944155172
+  }
+}

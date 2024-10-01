@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "create_easy_structures:windmill",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency": 0.1,
+    "spacing": 120,
+    "separation": 40,
+    "salt": 353987075
+  }
+}
